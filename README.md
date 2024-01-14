@@ -37,7 +37,7 @@ To run the project, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/DODS-CyberCypher3.0/InventoGPT.git`
 2. Install required packages: `pip install -r requirements.txt`
-3. Run the Streamlit web app: `streamlit run StreamlitWebApp/main.py`
+3. Run the Streamlit web app: `streamlit run StreamlitWebApp/Login.py`
 4. Access the web app at [http://localhost:8501](http://localhost:8501)
 
 ## Apriori Association Rules
